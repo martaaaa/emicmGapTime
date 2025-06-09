@@ -1,4 +1,4 @@
-# emicmGapTime
+# Enimic Gap Time
 
 # Weighted EM–ICM for Bivariate Interval Censoring
 
